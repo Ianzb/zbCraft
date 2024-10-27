@@ -1,4 +1,5 @@
 {
   "itemGroup.zbcraft.zb_item_groups": "zbCraft Items",
-  "item.zbcraft.zb_item": "zb Item"
+  "item.zbcraft.zb_item": "zb Item",
+  "block.zbcraft.zb_block": "zb Block"
 }

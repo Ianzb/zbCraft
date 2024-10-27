@@ -11,7 +11,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "org.zb.zbcraft.Zbcraft"
+      "org.zb.zbcraft.zbCraft"
     ]
   },
   "depends": {
