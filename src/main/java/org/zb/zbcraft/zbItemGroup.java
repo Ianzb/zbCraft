@@ -17,6 +17,7 @@ public class zbItemGroup {
             .entries((context, entries) -> {
                 entries.add(zbItems.zb_item);
                 entries.add(zbBlocks.zb_block.asItem());
+                entries.add(zbBlocks.hsannu_block.asItem());
             })
             .build();
 

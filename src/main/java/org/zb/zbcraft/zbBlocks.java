@@ -6,10 +6,12 @@ import net.minecraft.item.Item;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
+import org.zb.zbcraft.block.hsannuBlock;
 import org.zb.zbcraft.block.zbBlock;
 
 public class zbBlocks {
     public static final Block zb_block = register("zb_block", new zbBlock(Block.Settings.create().requiresTool().strength(25f, 1500f)));
+    public static final Block hsannu_block = register("hsannu_block", new hsannuBlock(Block.Settings.create().requiresTool().strength(25f, 1500f)));
 
     private zbBlocks() {
     }

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "zbcraft:zb_block"
+    "zbcraft:zb_block",
+    "zbcraft:hsannu_block"
   ]
 }

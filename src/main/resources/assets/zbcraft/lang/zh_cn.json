@@ -1,5 +1,6 @@
 {
   "itemGroup.zbcraft.zb_item_groups": "zbCraft物品",
   "item.zbcraft.zb_item": "zb物品",
-  "block.zbcraft.zb_block": "zb方块"
+  "block.zbcraft.zb_block": "zb方块",
+  "block.zbcraft.hsannu_block": "东北师大附中方块"
 }
