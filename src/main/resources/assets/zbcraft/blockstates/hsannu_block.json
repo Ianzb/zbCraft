@@ -1,5 +1,10 @@
 {
   "variants": {
-    "": { "model": "zbcraft:block/hsannu_block" }
+    "charged=false": {
+      "model": "zbcraft:block/hsannu_block"
+    },
+    "charged=true": {
+      "model": "zbcraft:block/hsannu_block_charged"
+    }
   }
 }
